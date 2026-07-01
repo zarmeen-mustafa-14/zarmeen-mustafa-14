@@ -109,20 +109,14 @@ public:
 
 # 🎯 2026 Goals
 
-
-```
-<div align="center"> 
-
-✓ Improve DSA problem solving
-✓ Build impressive portfolio projects
-✓ Learn backend development
-✓ Start freelancing professionally
-✓ Create projects people remember
+<div align="center">
+✓ Improve DSA problem solving <br>
+✓ Build impressive portfolio projects <br>
+✓ Learn backend development <br>
+✓ Start freelancing professionally <br>
+✓ Create projects people remember <br>
 </div>
-```
-
----
-
+<hr>
 <div align="center"> 
     <h1>🌐 Connect With Me</h1> 
     <a href="https://github.com/zarmeen-mustafa-14"><img src="https://skillicons.dev/icons?i=github" /></a> 
