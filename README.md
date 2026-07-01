@@ -2,7 +2,7 @@
 
 # ʚ₊˚✧  Hey, I'm Zarmeen Mustafa ✧˚₊ɞ
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Frontend+Developer;C%2B%2B+%7C+DSA+%7C+UI%2FUX;Building+cool+things+with+code+%E2%9C%A8" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Frontend+Developer;C%2B%2B+%7C+WEB DEV+%7C+UI%2FUX;Building+cool+things+with+code+%E2%9C%A8" />
 
 <br>
 
