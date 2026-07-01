@@ -44,6 +44,4 @@ E-commerce style platform for selling digital products online.
 ⚡ Create projects that stand out
 🌐 Connect With Me
 
-<p> <a href="https://github.com/YOUR_USERNAME"> <img src="https://skillicons.dev/icons?i=github" /> </a>
-
-<a href="https://linkedin.com/in/YOUR_LINK"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
+<p> <a href="https://github.com/YOUR_USERNAME"> <img src="https://skillicons.dev/icons?i=github" /> </a>    <a href="https://linkedin.com/in/YOUR_LINK"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
