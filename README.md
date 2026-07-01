@@ -109,8 +109,10 @@ public:
 
 # 🎯 2026 Goals
 
-```txt
+
+```
 <div align="center"> 
+
 ✓ Improve DSA problem solving
 ✓ Build impressive portfolio projects
 ✓ Learn backend development
